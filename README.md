@@ -22,6 +22,7 @@ Adds the following to auto pull:
 - RetroArch (AArch64) (nightly)
 - RetroArch (AArch64) (stable)
 - ScummVM
+- Ship of Harkinian (Zelda - OOT Port)
 - Turnip Drivers [TRACK ONLY]
 - Vita3K
 - Winlator
