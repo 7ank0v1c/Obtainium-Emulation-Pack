@@ -13,6 +13,27 @@
    ],
    "allowIdChange": false
   },
+    {
+   "id": "com.github.stenzek.duckstation",
+   "url": "https://www.duckstation.org/android/",
+   "author": "www.duckstation.org",
+   "name": "DuckStation",
+   "installedVersion": "0.1-8108",
+   "latestVersion": "0.1-8108",
+   "apkUrls": "[[\"1069342510-duckstation-beta.apk\",\"https://www.duckstation.org/android/duckstation-beta.apk\"]]",
+   "otherAssetUrls": "[]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https://www.duckstation.org/android/duckstation-beta.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":true,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"(\\\\d.\\\\d-\\\\d+).*\",\"matchGroupToUse\":\"$1\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"supportFixedAPKURL\":false}",
+   "lastUpdateCheck": 1733920860647818,
+   "pinned": false,
+   "categories": [
+       "Emulator"
+   ],
+   "releaseDate": null,
+   "changeLog": null,
+   "overrideSource": null,
+   "allowIdChange": false
+  }
   {
    "id": "org.vita3k.emulator",
    "url": "https://github.com/Vita3K/Vita3K-Android",
