@@ -11,8 +11,9 @@ Finally; import file with Obtainium.
 Adds the following to auto pull:
 
 - Daijishou
-- DuckStation (Beta Version)
 - Dolphin (Development Versions)
+- DuckStation (Beta Version)
+- EKA2L1
 - MelonDS (stable)
 - MelonDS (nightly)
 - Lime3DS
