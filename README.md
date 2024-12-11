@@ -10,6 +10,7 @@ Finally; import file with Obtainium.
 
 Adds the following to auto pull:
 
+- Daijishou (Emulator/Rom Front-End)
 - DuckStation (Beta Version)
 - Dolphin (Development Versions)
 - MelonDS (stable)
