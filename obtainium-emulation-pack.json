@@ -276,6 +276,25 @@
     "Emulator"
    ],
    "overrideSource": "HTML"
+  },
+  {
+   "id": "com.dishii.soh",
+   "url": "https://github.com/Waterdish/Shipwright-Android",
+   "author": "Waterdish",
+   "name": "Ship of Harkinian",
+   "installedVersion": "1.3.0",
+   "latestVersion": "1.3.0",
+   "apkUrls": "[[\"soh.apk\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/releases/assets/211707962\"]]",
+   "otherAssetUrls": "[[\"1.3.0.tar.gz\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/tarball/1.3.0\"],[\"1.3.0.zip\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/zipball/1.3.0\"]]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+   "lastUpdateCheck": 1733920800058096,
+   "pinned": false,
+   "categories": [],
+   "releaseDate": 1733548671000000,
+   "changeLog": "Initial implementation of touch controls.\r\n\r\n- Toggle button in bottom right corner.\r\n- Entire right side of screen moves the camera if \"Free Look\" is enabled.\r\n- D-Pad is for the c buttons \r\n- X and Y buttons can be bound to whatever you wish.",
+   "overrideSource": null,
+   "allowIdChange": true
   }
  ]
 }
