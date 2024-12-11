@@ -13,7 +13,28 @@
    ],
    "allowIdChange": false
   },
-    {
+  {
+   "id": "com.magneticchen.daijishou",
+   "url": "https://github.com/TapiocaFox/Daijishou",
+   "author": "TapiocaFox",
+   "name": "Daijishō",
+   "installedVersion": "v1.4.76",
+   "latestVersion": "v1.4.76",
+   "apkUrls": "[[\"408.apk\",\"https://api.github.com/repos/TapiocaFox/Daijishou/releases/assets/199597847\"]]",
+   "otherAssetUrls": "[[\"v1.4.76.tar.gz\",\"https://api.github.com/repos/TapiocaFox/Daijishou/tarball/v1.4.76\"],[\"v1.4.76.zip\",\"https://api.github.com/repos/TapiocaFox/Daijishou/zipball/v1.4.76\"]]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+   "lastUpdateCheck": 1733920800539844,
+   "pinned": false,
+   "categories": [
+       "Utilities"
+   ],
+   "releaseDate": 1729111728000000,
+   "changeLog": "**⚠️  The APK aims for universal distribution.**\r\n\r\n# 1.4.76\r\n- Fixed app page not memorizing sorting mode.\r\n- Fixed a crash relate to pin and play widget.\r\n- Added GIF support for image block widget.\r\n- Updated experimental.",
+   "overrideSource": null,
+   "allowIdChange": false
+  },
+  {
    "id": "com.github.stenzek.duckstation",
    "url": "https://www.duckstation.org/android/",
    "author": "www.duckstation.org",
@@ -33,7 +54,7 @@
    "changeLog": null,
    "overrideSource": null,
    "allowIdChange": false
-  }
+  },
   {
    "id": "org.vita3k.emulator",
    "url": "https://github.com/Vita3K/Vita3K-Android",
