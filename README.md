@@ -18,7 +18,6 @@ Adds the following to auto pull:
 - MelonDS (nightly)
 - Lime3DS
 - NetherSX2 Patch [TRACK ONLY]
-- OdinTools
 - PPSSPP
 - RetroArch (AArch64) (nightly)
 - RetroArch (AArch64) (stable)
