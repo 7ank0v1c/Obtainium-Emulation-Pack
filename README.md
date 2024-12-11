@@ -21,7 +21,6 @@ Adds the following to auto pull:
 - NetherSX2 Patch [TRACK ONLY]
 - PPSSPP
 - RetroArch (AArch64) (nightly)
-- RetroArch (AArch64) (stable)
 - ScummVM
 - Ship of Harkinian (Zelda - OOT Port)
 - 2 Ship 2 Harkinian (Zelda - MM Port)
