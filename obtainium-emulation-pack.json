@@ -104,20 +104,6 @@
    "allowIdChange": false
   },
   {
-   "id": "487343354",
-   "url": "https://buildbot.libretro.com/stable",
-   "author": "buildbot.libretro.com",
-   "name": "RetroArch AArch64 (Stable)",
-   "apkUrls": "[[\"https://buildbot.libretro.com/stable/1.19.1/android/RetroArch_aarch64.apk\",\"https://buildbot.libretro.com/stable/1.19.1/android/RetroArch_aarch64.apk\"]]",
-   "preferredApkIndex": 0,
-   "additionalSettings": "{\"intermediateLink\":[{\"customLinkFilterRegex\":\"/stable/\\\\d+.\\\\d+.\\\\d+/\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false},{\"customLinkFilterRegex\":\"/stable/\\\\d+.\\\\d+.\\\\d+/android/\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false}],\"customLinkFilterRegex\":\"/stable/\\\\d+.\\\\d+.\\\\d+/android/RetroArch_aarch64.apk\",\"filterByLinkText\":false,\"skipSort\":true,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\\\\d+.\\\\d+.\\\\d+\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"RetroArch AArch64 (Stable)\",\"exemptFromBackgroundUpdates\":true,\"skipUpdateNotifications\":true,\"about\":\"Released less frequently. Better stability. \",\"supportFixedAPKURL\":false}",
-   "categories": [
-    "Emulator"
-   ],
-   "overrideSource": "HTML",
-   "allowIdChange": true
-  },
-  {
    "id": "487343355",
    "url": "https://buildbot.libretro.com/nightly/android",
    "author": "buildbot.libretro.com",
@@ -199,7 +185,7 @@
    "allowIdChange": true
   },
     {
-   "id": "904332840",
+   "id": "904332841",
    "url": "https://github.com/7ank0v1c/Obtainium-Emulation-Pack",
    "author": "7ank0v1c & RJNY",
    "name": "Obtainium Emulation Pack",
