@@ -290,11 +290,32 @@
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
    "lastUpdateCheck": 1733920800058096,
    "pinned": false,
-   "categories": [],
+   "categories": [Ports],
    "releaseDate": 1733548671000000,
    "changeLog": "Initial implementation of touch controls.\r\n\r\n- Toggle button in bottom right corner.\r\n- Entire right side of screen moves the camera if \"Free Look\" is enabled.\r\n- D-Pad is for the c buttons \r\n- X and Y buttons can be bound to whatever you wish.",
    "overrideSource": null,
    "allowIdChange": true
+  },
+  {
+   "id": "io.github.sds100.keymapper",
+   "url": "https://github.com/keymapperorg/KeyMapper",
+   "author": "keymapperorg",
+   "name": "Key Mapper",
+   "installedVersion": "v2.7.0",
+   "latestVersion": "v2.7.0",
+   "apkUrls": "[[\"keymapper-2.7.0.apk\",\"https://api.github.com/repos/keymapperorg/KeyMapper/releases/assets/211921750\"]]",
+   "otherAssetUrls": "[[\"v2.7.0.tar.gz\",\"https://api.github.com/repos/keymapperorg/KeyMapper/tarball/v2.7.0\"],[\"v2.7.0.zip\",\"https://api.github.com/repos/keymapperorg/KeyMapper/zipball/v2.7.0\"]]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"An app for remapping keys or buttons on Android devices, allowing users to customize their device's input controls.\",\"refreshBeforeDownload\":false}",
+   "lastUpdateCheck": 1733920860831198,
+   "pinned": false,
+   "categories": [
+       "Utilities"
+   ],
+   "releaseDate": 1733677799000000,
+   "changeLog": "New trigger 🎉!\n\nYou can now trigger your key maps from any of the ways your phone launches the assistant! This could be the Bixby button, Power button, or a button on your headset.",
+   "overrideSource": null,
+   "allowIdChange": false
   }
  ]
 }
