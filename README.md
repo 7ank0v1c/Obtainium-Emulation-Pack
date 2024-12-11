@@ -14,9 +14,10 @@ Adds the following to auto pull:
 - Dolphin (Development Versions)
 - DuckStation (Beta Version)
 - EKA2L1
+- Key Mapper
+- Lime3DS
 - MelonDS (stable)
 - MelonDS (nightly)
-- Lime3DS
 - NetherSX2 Patch [TRACK ONLY]
 - PPSSPP
 - RetroArch (AArch64) (nightly)
