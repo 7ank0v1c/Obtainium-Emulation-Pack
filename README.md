@@ -1,6 +1,6 @@
 # Obtainium Emulation Pack
 
-This is a fork from: https://github.com/RJNY/Obtainium-Emulation-Pack
+**(This is a fork from: https://github.com/RJNY/Obtainium-Emulation-Pack)**
 
 An [Obtainium](https://github.com/ImranR98/Obtainium) import file that adds popular Android
 emulation applications to Obtainium.
