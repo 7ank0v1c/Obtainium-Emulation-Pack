@@ -198,6 +198,20 @@
    ],
    "allowIdChange": true
   },
+    {
+   "id": "904332840",
+   "url": "https://github.com/7ank0v1c/Obtainium-Emulation-Pack",
+   "author": "RJNY",
+   "name": "Obtainium Emulation Pack",
+   "latestVersion": "v3.1.0",
+   "apkUrls": "[]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Obtainium Emulation Pack\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+   "categories": [
+    "Track Only"
+   ],
+   "allowIdChange": true
+  },
   {
    "id": "com.winlator",
    "url": "https://github.com/brunodev85/winlator",
