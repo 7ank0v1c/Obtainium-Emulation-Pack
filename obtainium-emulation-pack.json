@@ -290,11 +290,34 @@
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
    "lastUpdateCheck": 1733920800058096,
    "pinned": false,
-   "categories": [Ports],
+   "categories": [
+    "Ports"
+   ],
    "releaseDate": 1733548671000000,
    "changeLog": "Initial implementation of touch controls.\r\n\r\n- Toggle button in bottom right corner.\r\n- Entire right side of screen moves the camera if \"Free Look\" is enabled.\r\n- D-Pad is for the c buttons \r\n- X and Y buttons can be bound to whatever you wish.",
    "overrideSource": null,
    "allowIdChange": true
+  },
+  {
+   "id": "com.dishii.mm",
+   "url": "https://github.com/Waterdish/2ship2harkinian-Android",
+   "author": "Waterdish",
+   "name": "2 Ship 2 Harkinian",
+   "installedVersion": "v1.1.1P4",
+   "latestVersion": "v1.1.1P4",
+   "apkUrls": "[[\"2s2h.apk\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/releases/assets/208687559\"]]",
+   "otherAssetUrls": "[[\"v1.1.1P4.tar.gz\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/tarball/v1.1.1P4\"],[\"v1.1.1P4.zip\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/zipball/v1.1.1P4\"]]",
+   "preferredApkIndex": 0,
+   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+   "lastUpdateCheck": 1733924200196281,
+   "pinned": false,
+   "categories": [
+    "Ports"
+   ],
+   "releaseDate": 1732432348000000,
+   "changeLog": "Fixes a bug with free look not working on controller.",
+   "overrideSource": "GitHub",
+   "allowIdChange": false
   },
   {
    "id": "io.github.sds100.keymapper",
